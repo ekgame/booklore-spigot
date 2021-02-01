@@ -1,0 +1,6 @@
+name: Booklore
+version: ${project.version}
+main: lt.ekgame.booklore.BookLore
+api-version: 1.16
+authors: [ ekgame ]
+description: Apply book contents to an item as lore.
